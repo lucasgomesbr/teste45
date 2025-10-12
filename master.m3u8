@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 type="playlist" tvg-logo="https://s2.glbimg.com/MViBvuhVSOIlDS26obdk2LILLE8=/e.glbimg.com/og/ed/f/original/2018/03/23/politica.jpg", Politica
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/MViBvuhVSOIlDS26obdk2LILLE8=/e.glbimg.com/og/ed/f/original/2018/03/23/politica.jpg" type="video" description="2014", Politica
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://st.depositphotos.com/1368414/2967/i/450/depositphotos_29678817-stock-photo-the-word-culture.jpg", Cultura
+#EXTINF:0 tvg-logo="https://st.depositphotos.com/1368414/2967/i/450/depositphotos_29678817-stock-photo-the-word-culture.jpg" type="video" description="2014", Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://get.wallhere.com/photo/Asian-beauty-clothing-emotions-girl-models-people-photography-portrait-sexy-sweetness-wallpaper-woman-1934269.jpg", Asiaticas
+#EXTINF:0  type="video" description="2014" tvg-logo="https://get.wallhere.com/photo/Asian-beauty-clothing-emotions-girl-models-people-photography-portrait-sexy-sweetness-wallpaper-woman-1934269.jpg", Asiaticas
 https://raw.githubusercontent.com/lucasgomesbr/teste45/refs/heads/main/asia.m3u8
